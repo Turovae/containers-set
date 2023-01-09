@@ -37,3 +37,6 @@ class Team {
 Метод `toArray` должен производить конвертацию `Set` в массив.
 
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
+
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/0dpm2kanm06ext0x?svg=true)](https://ci.appveyor.com/project/Turovae/containers-set)
