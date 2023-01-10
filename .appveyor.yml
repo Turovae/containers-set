@@ -1,7 +1,7 @@
 image: Ubuntu1804
 stack: node 16
 branches:
-  only
+  only:
     - main
 cache: node_modules
 install:
